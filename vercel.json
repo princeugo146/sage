@@ -1,0 +1,7 @@
+{
+  "buildpacks": [
+    {
+      "builder": "heroku/buildpacks:20"
+    }
+  ]
+}
